@@ -1,0 +1,141 @@
+/* Extra large devices */
+@media(min-width: 1200px){
+    .tel{
+        margin-left: 500px;
+    }
+    .map{
+        width: 650px;
+    }
+    .forms{
+        width: 300px;
+    }
+    .video{
+        width: 500px;
+        margin-left: 150px;
+    }
+    .name-Vdo{
+        margin-left: 320px;
+        font-size: 20px;
+    }
+
+}
+@media(min-width: 1000px) and (max-width: 1134px){
+    .tel{
+        margin-left: 300px;
+    }
+    .map {
+        width: 500px;
+    }
+    .forms{
+        width: 200px;
+    }
+    .one-part .Square{
+        width: 200px;
+    }
+    .one-part .Square2{
+        width: 200px;
+    }
+    .video{
+        width: 400px;
+        margin-left: 50px;
+    }
+    .name-Vdo{
+        margin-right: -500px;
+        font-size: 18px;
+    }
+    .say{
+        width: 239px;
+        height: 387px;
+        margin: 57px 50px;
+    }
+    .img-say{
+        margin: 17px 83px;
+    }
+    .say .pp{
+        margin: 18px 80px;  
+        font-size: 12px;
+    }
+
+
+}
+@media(min-width: 900px) and (max-width: 1000px){
+    .tel{
+        margin-left: 300px;
+    }
+    .map {
+        width: 500px;
+    }
+    .forms{
+        width: 200px;
+    }
+    .one-part .Square{
+        width: 200px;
+    }
+    .one-part .Square2{
+        width: 200px;
+    }
+    .video{
+        width: 400px;
+        margin-left: 50px;
+    }
+    .name-Vdo{
+        margin-right: -500px;
+        font-size: 18px;
+    }
+    .say{
+        width: 239px;
+        height: 387px;
+        margin: 57px 50px;
+    }
+    .img-say{
+        margin: 17px 83px;
+    }
+    .say .pp{
+        margin: 18px 80px;  
+        font-size: 12px;
+    }
+}
+@media(min-width: 800px) and (max-width: 1000px){
+    .tel{
+        margin-left: 300px;
+    }
+    .map {
+        width: 500px;
+    }
+    .forms{
+        width: 200px;
+    }
+    .one-part{
+        height: 1300px;
+    }
+    .one-part .Square{
+        /* width: 150px; */
+        display: flex;
+        flex-direction: column;
+    }
+    .one-part .Square2{
+        /* width: 150px; */
+        display: flex;
+        flex-direction: column;
+    }
+    .video{
+        width: 300px;
+        margin-left: -100px;
+    }
+    .name-Vdo{
+        margin-right: -500px;
+        font-size: 18px;
+    }
+    .say{
+        width: 200px;
+        height: 400px;
+        margin: 40px 30px;
+    }
+    .img-say{
+        margin: 17px 60px;
+    }
+    .say .pp{
+        margin: 18px 60px;  
+        font-size: 12px;
+    }
+}
